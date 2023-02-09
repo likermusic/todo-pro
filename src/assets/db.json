@@ -1,0 +1,218 @@
+{
+  "lists": [
+    {
+      "name": "asdaserfdsxs",
+      "colorId": 1,
+      "id": 1
+    },
+    {
+      "name": "aaaaaa",
+      "colorId": 1,
+      "id": 2
+    },
+    {
+      "name": "555",
+      "colorId": 3,
+      "id": 3
+    },
+    {
+      "name": "asdasd",
+      "colorId": 6,
+      "id": 4
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "listId": 2,
+      "text": "Изучить JavaScript",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "listId": 2,
+      "text": "Изучить паттерны проектирования",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "listId": 2,
+      "text": "ReactJS Hooks (useState, useReducer, useEffect и т.д.)",
+      "completed": false
+    },
+    {
+      "id": 4,
+      "listId": 2,
+      "text": "Redux (redux-observable, redux-saga)",
+      "completed": false
+    },
+    {
+      "listId": 1,
+      "text": "saadasdasdasdas",
+      "completed": true,
+      "id": 8
+    },
+    {
+      "listId": 2,
+      "text": "232",
+      "completed": false,
+      "id": 9
+    },
+    {
+      "listId": 1,
+      "text": "asda",
+      "completed": true,
+      "id": 11
+    },
+    {
+      "listId": 4,
+      "text": "aaa",
+      "completed": false,
+      "id": 12
+    },
+    {
+      "listId": 1,
+      "text": "NEW TASK",
+      "completed": true,
+      "id": 13
+    },
+    {
+      "listId": 1,
+      "text": "00000",
+      "completed": false,
+      "id": 14
+    },
+    {
+      "listId": 1,
+      "text": "Hello Mike",
+      "completed": false,
+      "id": 15
+    },
+    {
+      "listId": 1,
+      "text": "hello john",
+      "completed": false,
+      "id": 16
+    },
+    {
+      "listId": 1,
+      "text": "101",
+      "completed": false,
+      "id": 17
+    },
+    {
+      "listId": 1,
+      "text": "asda",
+      "completed": false,
+      "id": 18
+    },
+    {
+      "listId": 1,
+      "text": "sdf",
+      "completed": false,
+      "id": 19
+    },
+    {
+      "listId": 4,
+      "text": "1111",
+      "completed": false,
+      "id": 20
+    },
+    {
+      "listId": 4,
+      "text": "asdas",
+      "completed": false,
+      "id": 22
+    },
+    {
+      "listId": 4,
+      "text": "asdas",
+      "completed": false,
+      "id": 23
+    },
+    {
+      "listId": 4,
+      "text": "111",
+      "completed": false,
+      "id": 24
+    },
+    {
+      "listId": 4,
+      "text": "asd",
+      "completed": false,
+      "id": 25
+    },
+    {
+      "listId": 1,
+      "text": "aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "completed": false,
+      "id": 26
+    },
+    {
+      "listId": 1,
+      "text": "bbb",
+      "completed": false,
+      "id": 27
+    },
+    {
+      "listId": 1,
+      "text": "sada",
+      "completed": false,
+      "id": 28
+    },
+    {
+      "listId": 1,
+      "text": "asd",
+      "completed": false,
+      "id": 29
+    },
+    {
+      "listId": 1,
+      "text": "aaa",
+      "completed": false,
+      "id": 30
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "hex": "#C9D1D3",
+      "name": "grey"
+    },
+    {
+      "id": 2,
+      "hex": "#42B883",
+      "name": "green"
+    },
+    {
+      "id": 3,
+      "hex": "#64C4ED",
+      "name": "blue"
+    },
+    {
+      "id": 4,
+      "hex": "#FFBBCC",
+      "name": "pink"
+    },
+    {
+      "id": 5,
+      "hex": "#B6E6BD",
+      "name": "lime"
+    },
+    {
+      "id": 6,
+      "hex": "#C355F5",
+      "name": "purple"
+    },
+    {
+      "id": 7,
+      "hex": "#110133",
+      "name": "black"
+    },
+    {
+      "id": 8,
+      "hex": "#FF6464",
+      "name": "red"
+    }
+  ]
+}
